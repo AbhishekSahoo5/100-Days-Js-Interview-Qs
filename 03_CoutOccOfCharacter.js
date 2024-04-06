@@ -31,6 +31,7 @@ console.log(countChar("MissIssippi","I"));
 //-----------------------------------------------------
 
 //Approch I learnt
+
 const countCharacter=(word,char)=>{
     word=word.toLowerCase();
     char=char.toLowerCase();
