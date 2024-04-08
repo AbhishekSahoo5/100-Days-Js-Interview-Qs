@@ -23,4 +23,4 @@ const sortAscending=(arr)=>{
 }
 
 console.log(sortAscending(arr));
-//-->Output:-[1,3,5,8]
+//-->Output:-[3,5,8,10]
